@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<title>Stock Portfolio Management Course – Complete Curriculum | Free Investment Software</title>
+
+<meta name="description" content="Complete curriculum of the Stock Portfolio Management course using free desktop investment software. Learn intrinsic value, dividends, technical analysis, portfolio analysis and investor psychology.">
+
+<meta name="keywords" content="stock portfolio software free, intrinsic value calculation, dividend investing software, stock analysis software free download, portfolio management software">
+
+<meta name="robots" content="index, follow">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+
+body{
+font-family:Arial;
+max-width:1000px;
+margin:auto;
+padding:20px;
+background:#f4f6f9;
+line-height:1.6;
+}
+
+.section{
+background:white;
+padding:25px;
+margin-bottom:25px;
+border-radius:8px;
+box-shadow:0 2px 10px rgba(0,0,0,0.05);
+}
+
+h1,h2{
+color:#1e2a38;
+}
+
+a{
+text-decoration:none;
+color:#0073e6;
+}
+
+a:hover{
+text-decoration:underline;
+}
+
+.lesson{
+margin-bottom:6px;
+}
+
+.download{
+display:inline-block;
+padding:14px 26px;
+background:#2ecc71;
+color:white;
+font-weight:bold;
+border-radius:6px;
+margin-top:15px;
+}
+
+.download:hover{
+background:#27ae60;
+}
+
+.udemy{
+display:inline-block;
+padding:10px 18px;
+background:#a435f0;
+color:white;
+border-radius:6px;
+margin:6px;
+font-size:14px;
+}
+
+.contact{
+background:#1e2a38;
+color:white;
+padding:25px;
+border-radius:8px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+<div class="section">
+
+<h1>Stock Portfolio Management Course Using Free Investment Software</h1>
+
+<p>
+This course teaches investors how to analyze stocks, calculate intrinsic value, evaluate dividend income and build a disciplined investment strategy using professional portfolio management software.
+</p>
+
+<p>
+All the techniques explained in this course are supported by the desktop software used during the lessons. The software allows investors to evaluate companies, calculate intrinsic price, measure portfolio concentration and analyze dividend income in a structured way.
+</p>
+
+<a class="download" href="download.html">
+Download the Free Stock Portfolio Software
+</a>
+
+</div>
+
+
+<div class="section">
+
+<h2>Udemy Courses Available in Multiple Languages</h2>
+
+<p>
+If you prefer structured video learning, you can also take the full course on Udemy in multiple languages.
+</p>
+
+<a class="udemy" href="#">English Course</a>
+<a class="udemy" href="#">Curso en Español</a>
+<a class="udemy" href="#">Curso em Português</a>
+<a class="udemy" href="#">Cours en Français</a>
+
+</div>
+
+
+<div class="section">
+
+<h2>Complete Course Curriculum</h2>
+
+<p>
+Below you can explore the complete course structure. Each lecture explains a specific concept related to stock analysis, portfolio evaluation and long-term investing.
+</p>
+
+</div>
+
+
+<div class="section">
+
+<h2>Section 1 – Download and Installation of Main Desktop Software</h2>
+
+<div class="lesson"><a href="lesson1.html">Lecture 1 – Stock Evaluation with Pair-Wise Analysis Using 10 Key Parameters</a></div>
+<div class="lesson"><a href="lesson2.html">Lecture 2 – Link to Download the Software Used in This Course</a></div>
+<div class="lesson"><a href="lesson3.html">Lecture 3 – Desktop Software Download</a></div>
+<div class="lesson"><a href="lesson4.html">Lecture 4 – Desktop Software Installation</a></div>
+
+</div>
+
+
+<div class="section">
+
+<h2>Section 2 – Potential Capabilities Offered by the Software</h2>
+
+<div class="lesson"><a href="lesson5.html">Lecture 5 – Why Use Paired Analysis to Evaluate Stocks?</a></div>
+<div class="lesson"><a href="lesson6.html">Lecture 6 – Additional Analysis Techniques for Stock Evaluation</a></div>
+<div class="lesson"><a href="lesson7.html">Lecture 7 – Understanding How Intrinsic Price Is Calculated</a></div>
+<div class="lesson"><a href="lesson8.html">Lecture 8 – Understanding Volatility of Intrinsic and Market Prices</a></div>
+<div class="lesson"><a href="lesson9.html">Lecture 9 – Intrinsic Price Correlation Graphs</a></div>
+<div class="lesson"><a href="lesson10.html">Lecture 10 – Why Tracking Equity, Debt, Cash and Expenses Matters</a></div>
+<div class="lesson"><a href="lesson11.html">Lecture 11 – Technical Analysis: RSI, Moving Averages and Bollinger Bands</a></div>
+<div class="lesson"><a href="lesson12.html">Lecture 12 – Measuring Risk-Adjusted Returns with the Sharpe Ratio</a></div>
+<div class="lesson"><a href="lesson13.html">Lecture 13 – Maximizing Returns with Yield on Cost</a></div>
+<div class="lesson"><a href="lesson14.html">Lecture 14 – Mastering IRR for Stock Investments</a></div>
+<div class="lesson"><a href="lesson15.html">Lecture 15 – Heatmap Visualization of Dividends</a></div>
+<div class="lesson"><a href="lesson16.html">Lecture 16 – Analysis of Received Dividends</a></div>
+<div class="lesson"><a href="lesson17.html">Lecture 17 – HHI Portfolio Concentration Indicator</a></div>
+<div class="lesson"><a href="lesson18.html">Lecture 18 – Measuring the Real Profitability of Investments</a></div>
+<div class="lesson"><a href="lesson19.html">Lecture 19 – Tracking Passive Income from Stocks</a></div>
+<div class="lesson"><a href="lesson20.html">Lecture 20 – Visualizing Dividend Income with Pie Charts</a></div>
+
+</div>
+
+
+<div class="section">
+
+<h2>Section 3 – Starting Your Investment Journey</h2>
+
+<div class="lesson"><a href="lesson21.html">Lecture 21 – Initial Parametrization</a></div>
+<div class="lesson"><a href="lesson22.html">Lecture 22 – Understanding the Main Asset Classes</a></div>
+<div class="lesson"><a href="lesson23.html">Lecture 23 – Company Registration</a></div>
+<div class="lesson"><a href="lesson24.html">Lecture 24 – Industry Classification Benchmark (ICB)</a></div>
+<div class="lesson"><a href="lesson25.html">Lecture 25 – Cause-and-Effect Modeling of Bank Profitability</a></div>
+<div class="lesson"><a href="lesson26.html">Lecture 26 – Industry Profitability Analyzer</a></div>
+<div class="lesson"><a href="lesson27.html">Lecture 27 – Modeling Industrial Sector Profitability</a></div>
+<div class="lesson"><a href="lesson28.html">Lecture 28 – Banking Sector Practical Example</a></div>
+<div class="lesson"><a href="lesson29.html">Lecture 29 – Recording Purchases</a></div>
+<div class="lesson"><a href="lesson30.html">Lecture 30 – Recording Sales</a></div>
+<div class="lesson"><a href="lesson31.html">Lecture 31 – Recording Dividends</a></div>
+<div class="lesson"><a href="lesson32.html">Lecture 32 – Intrinsic Price Without Dividends</a></div>
+<div class="lesson"><a href="lesson33.html">Lecture 33 – Recording Market Prices</a></div>
+<div class="lesson"><a href="lesson34.html">Lecture 34 – Importing Market Prices from Excel</a></div>
+<div class="lesson"><a href="lesson35.html">Lecture 35 – Technical Analysis Indicators</a></div>
+<div class="lesson"><a href="lesson36.html">Lecture 36 – Tracking Performance Per Investor</a></div>
+<div class="lesson"><a href="lesson37.html">Lecture 37 – CAGR Purchase by Purchase</a></div>
+<div class="lesson"><a href="lesson38.html">Lecture 38 – How the Software Calculates CAGR</a></div>
+
+</div>
+
+
+<div class="section">
+
+<h2>Why This Course Is Unique</h2>
+
+<p>
+Unlike theoretical investment courses, this program teaches investors how to combine financial analysis, technical indicators and portfolio management techniques using specialized investment software.  
+Students learn how to calculate intrinsic value, track dividends, measure risk-adjusted returns and build long-term passive income strategies.
+</p>
+
+</div>
+
+
+<div class="contact">
+
+<h2>Contact</h2>
+
+<p>
+If you have questions about the software or the course you can contact us.
+</p>
+
+<p>
+Email: soporte@solinteg.net
+</p>
+
+<p>
+We will be happy to help you.
+</p>
+
+</div>
+
+
+</body>
+</html>
