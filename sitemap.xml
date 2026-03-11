@@ -3,13 +3,314 @@
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xml">
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
-  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/sitemap.xml</loc>
-  <lastmod>2026-03-06T19:29:33+00:00</lastmod>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/Contenido.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson1.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson2.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson3.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson4.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson5.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson6.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson7.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson8.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson9.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson10.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson11.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson12.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson13.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson14.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson15.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson16.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson17.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson18.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson19.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson20.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson21.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson22.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson23.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson24.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson25.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson26.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson27.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson28.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson29.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson30.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson31.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson32.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson33.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson34.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson35.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson36.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson37.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson38.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson39.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson40.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson41.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson42.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson43.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson44.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson45.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson46.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson47.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson48.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson49.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson50.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson51.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson52.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson53.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson54.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson55.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson56.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson57.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson58.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/lesson59.html</loc>
+  <lastmod>2026-03-11T19:23:54+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
