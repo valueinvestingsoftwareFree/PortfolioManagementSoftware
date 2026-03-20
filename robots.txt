@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://valueinvestingsoftwarefree.github.io/PortfolioManagementSoftware/sitemap.xml
