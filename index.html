@@ -55,6 +55,20 @@ h1, h2 {
 .button:hover {
     background-color: #005bb5;
 }
+
+/* NEW: container for right-side buttons */
+.download-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+
+.right-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
 </style>
 </head>
  
@@ -82,9 +96,25 @@ Track stocks, dividends, performance, and total return in one powerful desktop s
 Unlike spreadsheets, this system is structured, automated, and designed for long-term portfolio tracking.
 </p>
 
-<a class="button" href="https://www.dropbox.com/scl/fi/w857cfimlerq19gtxyxo9/Stocks.rar?rlkey=kn06ugzajdyi4suja1hboe92u&st=96866jmr&dl=1">
-Download Free Software
-</a>
+<!-- MODIFIED SECTION ONLY -->
+<div class="download-row">
+
+    <a class="button" href="https://www.dropbox.com/scl/fi/w857cfimlerq19gtxyxo9/Stocks.rar?rlkey=kn06ugzajdyi4suja1hboe92u&st=96866jmr&dl=1">
+        Download Free Software
+    </a>
+
+    <div class="right-buttons">
+        <a class="button" href="Desktop.html">
+            Desktop Interface Gallery
+        </a>
+
+        <a class="button" href="App.html">
+            Mobile App Interface Gallery
+        </a>
+    </div>
+
+</div>
+<!-- END MODIFIED SECTION -->
 
 </div>
 
